@@ -15,7 +15,8 @@
       "title": { "en": "PhD 3rd Year Student", "ja": "博士課程後期3年" },
       "initials": "RL",
       "color": "#8e44ad",
-      "pic": ""
+      "pic": "",
+      "affiliation": { "en": "Camera Intelligence Lab,\n Peking University", "ja": "北京大学\n Camera Intelligence Lab" }
     },
     {
       "name": { "en": "Ziqi Cai", "ja": "Ziqi Cai" },
@@ -23,7 +24,7 @@
       "initials": "ZC",
       "color": "#8e44ad",
       "pic": "",
-      "affiliation": { "en": "Camera Intelligence Lab,\n Peking University", "ja": "北京大学\n Camera Intelligence Lab" }
+      "affiliation": { "en": "Koike Laboratory,\nInstitute of Science Tokyo", "ja": "東京科学大学\n小池研究室" }
     }
   ],
   "fellows": [
@@ -33,7 +34,7 @@
       "initials": "HK",
       "color": "#8e44ad",
       "pic": "",
-      "affiliation": { "en": "School of Computing,\nInstitute of Science Tokyo", "ja": "東京科学大学\n小池研究室院" }
+      "affiliation": { "en": "Koike Laboratory,\nInstitute of Science Tokyo", "ja": "東京科学大学\n小池研究室" }
     },
     {
       "name": { "en": "Yuta Itoh", "ja": "伊藤勇太" },
@@ -57,7 +58,7 @@
       "initials": "YP",
       "color": "#8e44ad",
       "pic": "",
-      "affiliation": { "en": "Koike Lab,\nInstitute of Science Tokyo", "ja": "東京科学大学\n小池研究室" }
+      "affiliation": { "en": "Koike Laboratory,\nInstitute of Science Tokyo", "ja": "東京科学大学\n小池研究室" }
     },
     {
       "name": { "en": "Yifei Huang", "ja": "黄逸飛" },

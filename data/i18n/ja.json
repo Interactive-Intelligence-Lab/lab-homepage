@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "members": "メンバー",
+    "projects": "プロジェクト",
+    "publications": "業績",
+    "contact": "アクセス"
+  },
+  "lang_toggle": "EN",
+  "hero": {
+    "title": "インタラクティブ知能協働研究拠点",
+    "subtitle": "東京科学大学 — 情報理工学院",
+    "lab_label": "東京科学大学 — 情報理工学院",
+    "slogan": "人間の能力を拡張する\n知的システムをデザインする",
+    "desc": "ヒューマンコンピュータインタラクション、機械学習、3Dビジョンの研究を通じて、人間の学び・動き・創造を支援する技術を開発しています。"
+  },
+  "home": {
+    "about_title": "研究室について",
+    "about_text": "インタラクティブ知能協働研究拠点では、ヒューマンコンピュータインタラクション、人工知能、認知科学の融合領域を探求しています。人間と自然に協調し、創造性や意思決定を支援する知的システムの設計を目指しています。インタラクティブ機械学習、マルチモーダルインタフェース、人間とAIの協働に関する基礎研究を推進するとともに、実世界で活用できるシステムの構築にも取り組んでいます。",
+    "news_title": "ニュース",
+    "quicklinks_title": "研究室を知る",
+    "ql_members": "メンバー",
+    "ql_members_desc": "教員・学生の紹介",
+    "ql_projects": "プロジェクト",
+    "ql_projects_desc": "現在・過去の研究プロジェクト",
+    "ql_publications": "業績",
+    "ql_publications_desc": "学術論文一覧"
+  },
+  "members": {
+    "page_title": "メンバー",
+    "faculty": "教員",
+    "phd_students": "博士課程",
+    "master_students": "学生"
+  },
+  "projects": {
+    "page_title": "プロジェクト",
+    "status_active": "進行中",
+    "status_completed": "完了"
+  },
+  "publications": {
+    "page_title": "業績",
+    "filter_all": "すべて",
+    "filter_journal": "ジャーナル",
+    "filter_conference": "国際会議",
+    "filter_workshop": "ワークショップ"
+  },
+  "contact": {
+    "page_title": "アクセス",
+    "address_title": "所在地",
+    "email_title": "メール",
+    "access_title": "交通手段",
+    "access_text": "大岡山駅（東急目黒線・東急大井町線）より徒歩5分"
+  },
+  "footer": {
+    "copyright": "インタラクティブ知能協働研究拠点・東京科学大学"
+  }
+}

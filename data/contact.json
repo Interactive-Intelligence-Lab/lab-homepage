@@ -1,0 +1,12 @@
+{
+  "address": {
+    "en": "Institute of Science Tokyo\nSchool of Computing\nW8-59, 2-12-1 Ookayama, Meguro-ku\nTokyo 152-8552, Japan",
+    "ja": "〒152-8552 東京都目黒区大岡山2-12-1 W8-59\n東京科学大学 情報理工学院"
+  },
+  "email": "tanaka@cs.isct.ac.jp",
+  "access": {
+    "en": "5-minute walk from Ookayama Station (Tokyu Meguro Line / Tokyu Oimachi Line)",
+    "ja": "大岡山駅（東急目黒線・東急大井町線）より徒歩5分"
+  },
+  "map_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.544246498085!2d139.6808!3d35.6046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f523e6f3981d%3A0x4d3c4e52929de0db!2sTokyo%20Institute%20of%20Technology!5e0!3m2!1sen!2sjp!4v1700000000000!5m2!1sen!2sjp"
+}

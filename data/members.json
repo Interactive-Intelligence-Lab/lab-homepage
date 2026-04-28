@@ -1,0 +1,71 @@
+{
+  "faculty": [
+    {
+      "name": { "en": "Erwin Wu", "ja": "ウー　エアウィン" },
+      "title": { "en": "Resaerch Associate Professor", "ja": "特任准教授" },
+      "initials": "EW",
+      "color": "#2a5a8c",
+      "pic": "",
+      "web": "http://erwinwu.com/"
+    }
+  ],
+  "students": [
+    {
+      "name": { "en": "Ruofan Liu", "ja": "リュー　ローハン" },
+      "title": { "en": "PhD 3rd Year Student", "ja": "博士課程後期3年" },
+      "initials": "RL",
+      "color": "#8e44ad",
+      "pic": ""
+    },
+    {
+      "name": { "en": "Ziqi Cai", "ja": "Ziqi Cai" },
+      "title": { "en": "Visiting PhD Student", "ja": "訪問博士課程学生" },
+      "initials": "ZC",
+      "color": "#8e44ad",
+      "pic": "",
+      "affiliation": { "en": "Camera Intelligence Lab,\n Peking University", "ja": "北京大学\n Camera Intelligence Lab" }
+    }
+  ],
+  "fellows": [
+    {
+      "name": { "en": "Hideki Koike", "ja": "小池英樹" },
+      "title": { "en": "Professor", "ja": "教授" },
+      "initials": "HK",
+      "color": "#8e44ad",
+      "pic": "",
+      "affiliation": { "en": "School of Computing,\nInstitute of Science Tokyo", "ja": "東京科学大学\n情報理工学院" }
+    },
+    {
+      "name": { "en": "Yuta Itoh", "ja": "伊藤勇太" },
+      "title": { "en": "Associate Professor", "ja": "准教授" },
+      "initials": "YI",
+      "color": "#8e44ad",
+      "pic": "",
+      "affiliation": { "en": "School of Computing,\nInstitute of Science Tokyo", "ja": "東京科学大学\n情報理工学院" }
+    },
+    {
+      "name": { "en": "Shio Miyafuji", "ja": "宮藤詩緒" },
+      "title": { "en": "Assistant Professor", "ja": "助教" },
+      "initials": "SM",
+      "color": "#8e44ad",
+      "pic": "",
+      "affiliation": { "en": "School of Computing,\nInstitute of Science Tokyo", "ja": "東京科学大学\n情報理工学院" }
+    },
+    {
+      "name": { "en": "Yichen Peng", "ja": "ペン　イーチェン" },
+      "title": { "en": "Research Assistant Professor", "ja": "特任助教" },
+      "initials": "YP",
+      "color": "#8e44ad",
+      "pic": "",
+      "affiliation": { "en": "School of Computing,\nInstitute of Science Tokyo", "ja": "東京科学大学\n情報理工学院" }
+    },
+    {
+      "name": { "en": "Yifei Huang", "ja": "黄逸飛" },
+      "title": { "en": "Researcher", "ja": "研究員" },
+      "initials": "YP",
+      "color": "#8e44ad",
+      "pic": "",
+      "affiliation": { "en": "Shanda AI Research Tokyo", "ja": "Shanda AI Research Tokyo" }
+    }
+  ]
+}

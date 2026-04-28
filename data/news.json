@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2026-02-15",
+    "title": {
+      "en": "Our paper on collaborative AI interfaces accepted at CHI 2026",
+      "ja": "協調型AIインタフェースに関する論文がCHI 2026に採択されました"
+    }
+  },
+  {
+    "date": "2026-01-20",
+    "title": {
+      "en": "Welcome two new master students joining the lab this spring",
+      "ja": "この春から新しい修士学生2名が研究室に加わります"
+    }
+  },
+  {
+    "date": "2025-11-08",
+    "title": {
+      "en": "Prof. Tanaka gave an invited talk at IPSJ HCI Workshop",
+      "ja": "田中教授がIPSJ HCIワークショップで招待講演を行いました"
+    }
+  },
+  {
+    "date": "2025-09-30",
+    "title": {
+      "en": "Best Paper Award at UIST 2025 for our adaptive interface work",
+      "ja": "適応型インタフェースの研究がUIST 2025でBest Paper Awardを受賞"
+    }
+  },
+  {
+    "date": "2025-07-12",
+    "title": {
+      "en": "New JST CREST project on human-AI co-creation started",
+      "ja": "JST CREST「人間とAIの共創」プロジェクトが始動しました"
+    }
+  }
+]

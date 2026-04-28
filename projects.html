@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projects — Interactive Intelligence Lab</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="projects">
+
+  <!-- Header -->
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="site-logo">
+        <img class="logo-isct" src="images/science-tokyo-logo.png" alt="Institute of Science Tokyo">
+        <img class="logo-mark" src="images/shanda-logo.png" alt="Lab Logo">
+        <a href="index.html" data-i18n="hero.title">Interactive Intelligence Lab</a>
+      </div>
+      <button class="hamburger" id="hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+      <nav class="main-nav" id="main-nav">
+        <ul>
+          <li><a href="index.html" data-i18n="nav.home">Home</a></li>
+          <li><a href="members.html" data-i18n="nav.members">Members</a></li>
+          <li><a href="projects.html" class="active" data-i18n="nav.projects">Projects</a></li>
+          <li><a href="publications.html" data-i18n="nav.publications">Publications</a></li>
+          <li><a href="contact.html" data-i18n="nav.contact">Contact</a></li>
+          <li><button class="lang-toggle" id="lang-toggle" data-i18n="lang_toggle">JP</button></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Page Content -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title" data-i18n="projects.page_title">Projects</h2>
+      <div class="project-list" id="projects-container"></div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2026 <span data-i18n="footer.copyright">Interactive Intelligence Lab, Institute of Science Tokyo</span></p>
+    </div>
+  </footer>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/data-renderer.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

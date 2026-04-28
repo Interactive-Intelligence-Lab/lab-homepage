@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "Home",
+    "members": "Members",
+    "projects": "Projects",
+    "publications": "Publications",
+    "contact": "Contact"
+  },
+  "lang_toggle": "JP",
+  "hero": {
+    "title": "Interactive Intelligence Lab",
+    "subtitle": "Institute of Science Tokyo — Department of Computer Science",
+    "lab_label": "Institute of Science Tokyo — Dept. of Computer Science",
+    "slogan": "Designing Intelligent Systems\nThat Augment Human Ability",
+    "desc": "We research human-computer interaction, machine learning, and 3D vision to build technologies that enhance how people learn, move, and create."
+  },
+  "home": {
+    "about_title": "About",
+    "about_text": "The Interactive Intelligence Lab explores the intersection of human-computer interaction, artificial intelligence, and cognitive science. Our mission is to design intelligent systems that collaborate naturally with humans, augmenting human creativity and decision-making through novel interaction paradigms. We pursue fundamental research in interactive machine learning, multimodal interfaces, and human-AI collaboration, while also building practical systems that bring these ideas into the real world.",
+    "news_title": "News",
+    "quicklinks_title": "Explore",
+    "ql_members": "Members",
+    "ql_members_desc": "Meet our faculty and students",
+    "ql_projects": "Projects",
+    "ql_projects_desc": "Current and past research projects",
+    "ql_publications": "Publications",
+    "ql_publications_desc": "Journal and conference papers"
+  },
+  "members": {
+    "page_title": "Members",
+    "faculty": "Faculty",
+    "phd_students": "PhD Students",
+    "master_students": "Students"
+  },
+  "projects": {
+    "page_title": "Projects",
+    "status_active": "Active",
+    "status_completed": "Completed"
+  },
+  "publications": {
+    "page_title": "Publications",
+    "filter_all": "All",
+    "filter_journal": "Journal",
+    "filter_conference": "Conference",
+    "filter_workshop": "Workshop"
+  },
+  "contact": {
+    "page_title": "Contact",
+    "address_title": "Address",
+    "email_title": "Email",
+    "access_title": "Access",
+    "access_text": "5-minute walk from Ookayama Station (Tokyu Meguro Line / Tokyu Oimachi Line)"
+  },
+  "footer": {
+    "copyright": "Interactive Intelligence Lab, Institute of Science Tokyo"
+  }
+}

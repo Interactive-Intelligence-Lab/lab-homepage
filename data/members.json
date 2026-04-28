@@ -61,6 +61,14 @@
       "affiliation": { "en": "Koike Laboratory,\nInstitute of Science Tokyo", "ja": "東京科学大学\n小池研究室" }
     },
     {
+      "name": { "en": "Bo Zheng", "ja": "鄭　波" },
+      "title": { "en": "Research Director", "ja": "研究主任" },
+      "initials": "BZ",
+      "color": "#8e44ad",
+      "pic": "",
+      "affiliation": { "en": "Shanda AI Research Tokyo", "ja": "Shanda AI Research Tokyo" }
+    },
+    {
       "name": { "en": "Yifei Huang", "ja": "黄逸飛" },
       "title": { "en": "Researcher", "ja": "研究員" },
       "initials": "YP",

@@ -1,142 +1,46 @@
 [
   {
-    "authors": "Z. Liu, H. Peng, S. Oku, Y. Liao, E. Wu, S. Furuya, H. Koike",
+    "authors": "T. Hirano, H. Yoshihara, Y. Peng, C. Liao, E. Wu, H. Koike",
+    "title": {
+      "en": "SoleCoach: Sole Pressure and IMU-based MLLMs for Skill Coaching",
+      "ja": "SoleCoach: Sole Pressure and IMU-based MLLMs for Skill Coaching"
+    },
+    "venue": "CVPR 2026",
+    "year": 2026,
+    "type": "conference",
+    "award": "Best Paper Honorable Mention"
+
+  },
+  {
+    "authors": "T. Hirano, H. Yoshihara, Y. Peng, C. Liao, E. Wu, H. Koike",
+    "title": {
+      "en": "SoleCoach: Sole Pressure and IMU-based MLLMs for Skill Coaching",
+      "ja": "SoleCoach: Sole Pressure and IMU-based MLLMs for Skill Coaching"
+    },
+    "venue": "CHI 2026",
+    "year": 2026,
+    "type": "conference",
+    "award": "Best Paper Honorable Mention"
+
+  },
+  {
+    "authors": "R. Liu, Y. Peng, T. Oku, C. Liao, E. Wu, S. Furuya, H. Koike",
     "title": {
       "en": "From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography",
-      "ja": "ポーズから筋肉へ：ピアノ手筋電図のマルチモーダル学習"
+      "ja": "From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography"
     },
     "venue": "NeurIPS 2025",
     "year": 2025,
     "type": "conference"
   },
   {
-    "authors": "K. Hirano, N. Tabei, H. Peng, Y. Liao, E. Wu, H. Koike",
-    "title": {
-      "en": "SkiTechCoach: Multimodal Alpine Skiing Dataset for Coaching Applications",
-      "ja": "SkiTechCoach：コーチングのためのマルチモーダルアルペンスキーデータセット"
-    },
-    "venue": "ACM Multimedia (ACM MM) 2025",
-    "year": 2025,
-    "type": "conference"
-  },
-  {
-    "authors": "Z. Liu, H. Peng, S. Oku, Y. Liao, E. Wu, S. Furuya, H. Koike",
+    "authors": "R. Liu, H. Peng, T. Oku, C. Liao, E. Wu, S. Furuya, H. Koike",
     "title": {
       "en": "PiaMuscle: Improving Piano Skill Acquisition through Muscle Visualization",
-      "ja": "PiaMuscle：筋肉可視化によるピアノスキル習得の改善"
+      "ja": "PiaMuscle: Improving Piano Skill Acquisition through Muscle Visualization"
     },
     "venue": "ACM CHI Conference on Human Factors in Computing Systems (CHI 2025)",
     "year": 2025,
-    "type": "conference"
-  },
-  {
-    "authors": "Z. Yan, W. Yuan, E. Wu, K. Nishioka, I. Fujishiro, S. Saito",
-    "title": {
-      "en": "ColorizeDiffusion: Improving Reference-Based Sketch Colorization with Diffusion Models",
-      "ja": "ColorizeDiffusion：拡散モデルによる参照ベーススケッチ着色の改善"
-    },
-    "venue": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025)",
-    "year": 2025,
-    "type": "conference"
-  },
-  {
-    "authors": "E. Wu, H. Peng, R. Khirodkar, H. Koike, K. Kitani",
-    "title": {
-      "en": "SolePoser: Full Body Pose Estimation Using Insole Sensor",
-      "ja": "SolePoser：インソールセンサーを用いた全身ポーズ推定"
-    },
-    "venue": "ACM Symposium on User Interface Software and Technology (UIST 2024)",
-    "year": 2024,
-    "type": "conference"
-  },
-  {
-    "authors": "K. Matsumoto, E. Wu, Y. Liao, H. Koike",
-    "title": {
-      "en": "ARpenSki: Augmenting Ski Training with Postural Visualization in AR",
-      "ja": "ARpenSki：ARによる姿勢可視化でスキートレーニングを拡張"
-    },
-    "venue": "IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2024)",
-    "year": 2024,
-    "type": "conference"
-  },
-  {
-    "authors": "Z. Liu, E. Wu, Y. Liao, K. Nishioka, S. Furuya, H. Koike",
-    "title": {
-      "en": "PianoSyncAR: Enhancing Piano Learning Through Augmented Reality Visualization",
-      "ja": "PianoSyncAR：拡張現実可視化によるピアノ学習の強化"
-    },
-    "venue": "IEEE International Symposium on Mixed and Augmented Reality (ISMAR 2023)",
-    "year": 2023,
-    "type": "conference"
-  },
-  {
-    "authors": "H. Yeo, E. Wu, J. Kim, A. Lee, S. Kim, J. Oh, A. Takagi, J. Woo, H. Koike, A. Quigley",
-    "title": {
-      "en": "OmniSense: Novel Input Sensing on Mobile Device Using Acoustic Signals",
-      "ja": "OmniSense：音響信号を用いたモバイルデバイスの新しい入力センシング"
-    },
-    "venue": "ACM CHI Conference on Human Factors in Computing Systems (CHI 2023)",
-    "year": 2023,
-    "type": "conference"
-  },
-  {
-    "authors": "E. Wu, K. Nishioka, S. Furuya, H. Koike",
-    "title": {
-      "en": "Marker-removal Networks to Collect Precise 3D Hand Data for RGB-Based Estimation and Its Application in Piano",
-      "ja": "RGBベース推定のための精密な3Dハンドデータ収集用マーカー除去ネットワークとそのピアノへの応用"
-    },
-    "venue": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2023)",
-    "year": 2023,
-    "type": "conference"
-  },
-  {
-    "authors": "E. Wu, M. Piekenbrock, T. Nakamura, H. Koike",
-    "title": {
-      "en": "SPinPong: VR Table Tennis Skill Acquisition by Visualizing Spin Information",
-      "ja": "SPinPong：スピン情報の可視化によるVR卓球スキル習得"
-    },
-    "venue": "IEEE Transactions on Visualization and Computer Graphics (TVCG), IEEE VR 2021",
-    "year": 2021,
-    "type": "journal"
-  },
-  {
-    "authors": "E. Wu, W. Yuan, H. Yeo, A. Quigley, H. Koike, K. Kitani",
-    "title": {
-      "en": "Back-Hand-Pose: 3D Hand Pose Estimation for a Hand-Dorsum Camera via Deformation Network",
-      "ja": "Back-Hand-Pose：変形ネットワークによる手背カメラからの3Dハンドポーズ推定"
-    },
-    "venue": "ACM Symposium on User Interface Software and Technology (UIST 2020)",
-    "year": 2020,
-    "type": "conference"
-  },
-  {
-    "authors": "E. Wu, H. Koike",
-    "title": {
-      "en": "FuturePong: Real-time Table Tennis Trajectory Forecasting using Pose Prediction Network",
-      "ja": "FuturePong：姿勢予測ネットワークを用いたリアルタイム卓球軌道予測"
-    },
-    "venue": "ACM CHI Conference on Human Factors in Computing Systems (CHI 2020)",
-    "year": 2020,
-    "type": "conference"
-  },
-  {
-    "authors": "H. Yeo, E. Wu, J. Lee, A. Quigley, H. Koike",
-    "title": {
-      "en": "Opisthenar: Hand Poses Recognition via Wrist Camera",
-      "ja": "Opisthenar：手首カメラによる手のポーズ認識"
-    },
-    "venue": "ACM Symposium on User Interface Software and Technology (UIST 2019)",
-    "year": 2019,
-    "type": "conference"
-  },
-  {
-    "authors": "E. Wu, H. Koike",
-    "title": {
-      "en": "FuturePose: Mixed Reality Martial Arts Training Using Real-Time 3D Human Pose Forecasting",
-      "ja": "FuturePose：リアルタイム3D人体ポーズ予測を用いた複合現実格闘技トレーニング"
-    },
-    "venue": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2019)",
-    "year": 2019,
     "type": "conference"
   }
 ]

@@ -149,12 +149,15 @@ const DataRenderer = (() => {
         html += `<h3 class="pub-year">${year}</h3>`;
         byYear[year].forEach((p) => {
           const typeBadge = `<span class="pub-type-badge pub-type-badge--${p.type}">${p.type}</span>`;
+          const awardBadge = p.award
+            ? `<span class="pub-award-badge">${p.award}</span>`
+            : "";
           html += `
           <div class="pub-item" data-type="${p.type}">
             <span class="pub-authors">${p.authors}.</span>
             <span class="pub-title"> ${I18n.localize(p.title)}.</span>
             <span class="pub-venue"> ${p.venue}.</span>
-            ${typeBadge}
+            ${typeBadge}${awardBadge}
           </div>`;
         });
         html += `</div>`;

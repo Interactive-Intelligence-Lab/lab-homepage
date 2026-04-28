@@ -33,7 +33,7 @@
       "initials": "HK",
       "color": "#8e44ad",
       "pic": "",
-      "affiliation": { "en": "School of Computing,\nInstitute of Science Tokyo", "ja": "東京科学大学\n情報理工学院" }
+      "affiliation": { "en": "School of Computing,\nInstitute of Science Tokyo", "ja": "東京科学大学\n小池研究室院" }
     },
     {
       "name": { "en": "Yuta Itoh", "ja": "伊藤勇太" },
@@ -41,7 +41,7 @@
       "initials": "YI",
       "color": "#8e44ad",
       "pic": "",
-      "affiliation": { "en": "School of Computing,\nInstitute of Science Tokyo", "ja": "東京科学大学\n情報理工学院" }
+      "affiliation": { "en": "Augmented Vision Lab,\nInstitute of Science Tokyo", "ja": "東京科学大学\nAugmented Vision Lab" }
     },
     {
       "name": { "en": "Shio Miyafuji", "ja": "宮藤詩緒" },
@@ -49,7 +49,7 @@
       "initials": "SM",
       "color": "#8e44ad",
       "pic": "",
-      "affiliation": { "en": "School of Computing,\nInstitute of Science Tokyo", "ja": "東京科学大学\n情報理工学院" }
+      "affiliation": { "en": "Miyafuji Lab,\nInstitute of Science Tokyo", "ja": "東京科学大学\n宮藤研究室" }
     },
     {
       "name": { "en": "Yichen Peng", "ja": "ペン　イーチェン" },
@@ -57,7 +57,7 @@
       "initials": "YP",
       "color": "#8e44ad",
       "pic": "",
-      "affiliation": { "en": "School of Computing,\nInstitute of Science Tokyo", "ja": "東京科学大学\n情報理工学院" }
+      "affiliation": { "en": "Koike Lab,\nInstitute of Science Tokyo", "ja": "東京科学大学\n小池研究室" }
     },
     {
       "name": { "en": "Yifei Huang", "ja": "黄逸飛" },

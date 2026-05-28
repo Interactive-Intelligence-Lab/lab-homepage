@@ -27,10 +27,11 @@
     "ql_publications_desc": "Journal and conference papers"
   },
   "members": {
-    "page_title": "Members",
+    "page_title": "Message",
     "faculty": "Faculty",
     "phd_students": "PhD Students",
-    "master_students": "Students"
+    "master_students": "Students",
+    "message_placeholder": "(Message coming soon)"
   },
   "projects": {
     "page_title": "Projects",

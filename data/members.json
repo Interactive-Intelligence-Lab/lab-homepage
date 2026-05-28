@@ -1,4 +1,24 @@
 {
+  "messages": [
+    {
+      "name": { "en": "Hideki Koike", "ja": "小池英樹" },
+      "title": { "en": "Professor", "ja": "教授" },
+      "initials": "HK",
+      "color": "#8e44ad",
+      "pic": "",
+      "affiliation": { "en": "Koike Laboratory,\nInstitute of Science Tokyo", "ja": "東京科学大学\n小池研究室" },
+      "message": { "en": "", "ja": "" }
+    },
+    {
+      "name": { "en": "Bo Zheng", "ja": "鄭　波" },
+      "title": { "en": "Research Director", "ja": "研究主任" },
+      "initials": "BZ",
+      "color": "#8e44ad",
+      "pic": "",
+      "affiliation": { "en": "Shanda AI Research Tokyo", "ja": "Shanda AI Research Tokyo" },
+      "message": { "en": "", "ja": "" }
+    }
+  ],
   "faculty": [
     {
       "name": { "en": "Erwin Wu", "ja": "ウー　エアウィン" },

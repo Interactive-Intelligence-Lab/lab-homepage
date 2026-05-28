@@ -27,10 +27,11 @@
     "ql_publications_desc": "学術論文一覧"
   },
   "members": {
-    "page_title": "メンバー",
+    "page_title": "メッセージ",
     "faculty": "教員",
     "phd_students": "博士課程",
-    "master_students": "学生"
+    "master_students": "学生",
+    "message_placeholder": "（メッセージ準備中）"
   },
   "projects": {
     "page_title": "プロジェクト",

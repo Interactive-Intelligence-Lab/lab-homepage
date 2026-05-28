@@ -77,8 +77,48 @@ const DataRenderer = (() => {
       return html;
     }
 
+    function messageCard(m) {
+      const nameHtml = m.web
+        ? `<a href="${m.web}" target="_blank">${I18n.localize(m.name)}</a>`
+        : I18n.localize(m.name);
+      const affiliation = m.affiliation ? I18n.localize(m.affiliation) : "";
+      const affiliationHtml = affiliation
+        ? `<div class="affiliation">${escapeHtml(affiliation).replace(/\n/g, "<br>")}</div>`
+        : "";
+      const messageText = m.message ? I18n.localize(m.message) : "";
+      const placeholder = I18n.localize({
+        en: "(Message coming soon)",
+        ja: "（メッセージ準備中）",
+      });
+      const bodyClass = messageText.trim() ? "message-body" : "message-body message-body--empty";
+      const bodyContent = messageText.trim()
+        ? escapeHtml(messageText).replace(/\n/g, "<br>")
+        : escapeHtml(placeholder);
+      return `
+          <div class="message-card">
+            <div class="message-header">
+              ${photoHtml(m)}
+              <div class="message-meta">
+                <h4>${nameHtml}</h4>
+                <div class="research">${I18n.localize(m.title)}</div>
+                ${affiliationHtml}
+              </div>
+            </div>
+            <blockquote class="${bodyClass}">${bodyContent}</blockquote>
+          </div>`;
+    }
+
+    function renderMessageGroup(messages) {
+      if (!messages || !messages.length) return "";
+      let html = '<div class="message-grid">';
+      messages.forEach((m) => { html += messageCard(m); });
+      html += "</div>";
+      return html;
+    }
+
     function render() {
       let html = "";
+      html += renderMessageGroup(data.messages);
       html += renderGroup(data.faculty, { en: "Faculty & Staff", ja: "教職員" });
       html += renderGroup(data.fellows, { en: "Cooperative Research Fellow", ja: "協力研究者" });
       html += renderGroup(data.students, { en: "Students", ja: "学生" });

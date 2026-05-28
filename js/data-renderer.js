@@ -48,17 +48,30 @@ const DataRenderer = (() => {
     function photoHtml(m) {
       const src = m.pic && m.pic.trim() ? m.pic : DEFAULT_PIC;
       const alt = I18n.localize(m.name);
-      return `<div class="member-photo"><img src="${src}" alt="${alt}" onerror="this.src='${DEFAULT_PIC}'"></div>`;
+      const inner = `<div class="member-photo"><img src="${src}" alt="${alt}" onerror="this.src='${DEFAULT_PIC}'"></div>`;
+      return m.url && m.url.trim()
+        ? `<a class="member-photo-link" href="${m.url}" target="_blank" rel="noopener">${inner}</a>`
+        : inner;
+    }
+
+    function affiliationsHtml(m) {
+      if (!m.affiliation) return "";
+      const list = Array.isArray(m.affiliation) ? m.affiliation : [m.affiliation];
+      return list
+        .map((a) => {
+          const text = I18n.localize(a);
+          return text
+            ? `<div class="affiliation">${escapeHtml(text).replace(/\n/g, "<br>")}</div>`
+            : "";
+        })
+        .join("");
     }
 
     function memberCard(m) {
-      const nameHtml = m.web
-        ? `<a href="${m.web}" target="_blank">${I18n.localize(m.name)}</a>`
+      const nameHtml = m.url && m.url.trim()
+        ? `<a href="${m.url}" target="_blank" rel="noopener">${I18n.localize(m.name)}</a>`
         : I18n.localize(m.name);
-      const affiliation = m.affiliation ? I18n.localize(m.affiliation) : "";
-      const affiliationHtml = affiliation
-        ? `<div class="affiliation">${escapeHtml(affiliation).replace(/\n/g, "<br>")}</div>`
-        : "";
+      const affiliationHtml = affiliationsHtml(m);
       return `
           <div class="student-card">
             ${photoHtml(m)}
@@ -78,13 +91,10 @@ const DataRenderer = (() => {
     }
 
     function messageCard(m) {
-      const nameHtml = m.web
-        ? `<a href="${m.web}" target="_blank">${I18n.localize(m.name)}</a>`
+      const nameHtml = m.url && m.url.trim()
+        ? `<a href="${m.url}" target="_blank" rel="noopener">${I18n.localize(m.name)}</a>`
         : I18n.localize(m.name);
-      const affiliation = m.affiliation ? I18n.localize(m.affiliation) : "";
-      const affiliationHtml = affiliation
-        ? `<div class="affiliation">${escapeHtml(affiliation).replace(/\n/g, "<br>")}</div>`
-        : "";
+      const affiliationHtml = affiliationsHtml(m);
       const messageText = m.message ? I18n.localize(m.message) : "";
       const placeholder = I18n.localize({
         en: "(Message coming soon)",

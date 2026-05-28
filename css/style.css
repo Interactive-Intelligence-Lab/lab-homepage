@@ -397,8 +397,7 @@ ul {
   color: var(--color-text);
   padding: 12px 16px;
   background: var(--color-bg-alt);
-  border-left: 2px solid var(--color-border);
-  border-radius: 0 var(--radius) var(--radius) 0;
+  border-radius: var(--radius);
   min-height: 60px;
 }
 
@@ -441,14 +440,14 @@ ul {
 }
 
 .member-photo {
-  width: 64px;
-  height: 64px;
+  width: 96px;
+  height: 96px;
   border-radius: 50%;
-  margin: 0 auto 12px;
+  margin: 0 auto 14px;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   font-weight: 700;
   color: var(--color-white);
   background: var(--color-dark);
@@ -460,6 +459,16 @@ ul {
   height: 100%;
   object-fit: cover;
   display: block;
+}
+
+.member-photo-link {
+  display: inline-block;
+  text-decoration: none;
+  transition: opacity var(--transition);
+}
+
+.member-photo-link:hover {
+  opacity: 0.85;
 }
 
 .student-card h4 {
@@ -491,6 +500,10 @@ ul {
   font-style: italic;
   margin-top: 4px;
   line-height: 1.4;
+}
+
+.affiliation + .affiliation {
+  margin-top: 8px;
 }
 
 /* ===== Projects ===== */

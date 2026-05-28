@@ -6,8 +6,12 @@
       "initials": "HK",
       "color": "#8e44ad",
       "pic": "images/members/koike.jpg",
+      "url": "https://www.vogue.cs.titech.ac.jp/koike",
       "affiliation": { "en": "Institute of Science Tokyo, School of Computing, Professor", "ja": "東京科学大学　情報理工学院　教授" },
-      "message": { "en": "", "ja": "" }
+      "message": {
+        "en": "In this cooperative research project, we explore intelligent systems that amplify human creativity and interactions. I hope our work inspires new ideas and collaborations.",
+        "ja": "この協働研究拠点では、人間の創造性を代替するのではなく拡張する知的インタラクティブシステムの研究に取り組んでいます。私たちの活動が、新たな発想と協働のきっかけとなれば幸いです。"
+      }
     },
     {
       "name": { "en": "Bo Zheng", "ja": "鄭　波" },
@@ -15,6 +19,7 @@
       "initials": "BZ",
       "color": "#8e44ad",
       "pic": "images/members/zheng.jpg",
+      "url": "http://www.bozheng-lab.com/",
       "affiliation": { "en": "Shanda AI Research Tokyo, Research Director", "ja": "Shanda AI Research Tokyo　研究主任" },
       "message": { "en": "", "ja": "" }
     }
@@ -25,8 +30,8 @@
       "title": { "en": "Resaerch Associate Professor", "ja": "特任准教授" },
       "initials": "EW",
       "color": "#2a5a8c",
-      "pic": "images/members/erwin.jpg",
-      "web": "http://erwinwu.com/"
+      "pic": "images/members/erwin.png",
+      "url": "http://erwinwu.com/"
     }
   ],
   "students": [
@@ -36,7 +41,17 @@
       "initials": "RL",
       "color": "#8e44ad",
       "pic": "images/members/ruofan.jpg",
+      "url": "",
       "affiliation": { "en": "Koike Laboratory,\nInstitute of Science Tokyo", "ja": "東京科学大学\n小池研究室" }
+    },
+    {
+      "name": { "en": "Hirano Toshihiro", "ja": "平野稔祐" },
+      "title": { "en": "PhD 1st Year Student", "ja": "博士課程後期1年" },
+      "initials": "RL",
+      "color": "#8e44ad",
+      "pic": "images/members/hirano.jpg",
+      "url": "",
+      "affiliation": { "en": "Miyafuji Laboratory,\nInstitute of Science Tokyo", "ja": "東京科学大学\n宮藤研究室" }
     },
     {
       "name": { "en": "Ziqi Cai", "ja": "Ziqi Cai" },
@@ -44,6 +59,7 @@
       "initials": "ZC",
       "color": "#8e44ad",
       "pic": "",
+      "url": "",
       "affiliation": { "en": "Camera Intelligence Lab,\n Peking University", "ja": "北京大学\n Camera Intelligence Lab" }
     }
   ],
@@ -54,6 +70,7 @@
       "initials": "YI",
       "color": "#8e44ad",
       "pic": "images/members/itoh.png",
+      "url": "https://www.ar.comp.isct.ac.jp/people/yuta-itoh/",
       "affiliation": { "en": "Augmented Vision Lab,\nInstitute of Science Tokyo", "ja": "東京科学大学\nAugmented Vision Lab" }
     },
     {
@@ -62,6 +79,7 @@
       "initials": "SM",
       "color": "#8e44ad",
       "pic": "images/members/miyafuji.jpg",
+      "url": "http://shioshio.space/",
       "affiliation": { "en": "Miyafuji Lab,\nInstitute of Science Tokyo", "ja": "東京科学大学\n宮藤研究室" }
     },
     {
@@ -70,6 +88,7 @@
       "initials": "YP",
       "color": "#8e44ad",
       "pic": "images/members/peng.jpg",
+      "url": "https://puckikk1202.github.io/",
       "affiliation": { "en": "Koike Laboratory,\nInstitute of Science Tokyo", "ja": "東京科学大学\n小池研究室" }
     },
     {
@@ -77,16 +96,12 @@
       "title": { "en": "Researcher", "ja": "研究員" },
       "initials": "YP",
       "color": "#8e44ad",
-      "pic": "",
-      "affiliation": { "en": "Shanda AI Research Tokyo", "ja": "Shanda AI Research Tokyo" }
-    },
-    {
-      "name": { "en": "Kaipeng Zhang", "ja": "黄逸飛" },
-      "title": { "en": "Researcher", "ja": "研究員" },
-      "initials": "YP",
-      "color": "#8e44ad",
-      "pic": "",
-      "affiliation": { "en": "Shanda AI Research Tokyo", "ja": "Shanda AI Research Tokyo" }
+      "pic": "images/members/yifei.jpeg",
+      "url": "https://hyf015.github.io/",
+      "affiliation": [
+    { "en": "Shanda AI Research Tokyo", "ja": "Shanda AI Research Tokyo" },
+    { "en": "Sato Laboratory,\nThe University of Tokyo", "ja": "東京大学\n佐藤(洋)研究室" }
+    ]
     }
   ]
 }

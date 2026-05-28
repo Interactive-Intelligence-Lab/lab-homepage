@@ -21,7 +21,9 @@
       "pic": "images/members/zheng.jpg",
       "url": "http://www.bozheng-lab.com/",
       "affiliation": { "en": "Shanda AI Research Tokyo, Research Director", "ja": "Shanda AI Research Tokyo　研究主任" },
-      "message": { "en": "", "ja": "" }
+      "message": { 
+        "en": "We believe interactive intelligence is a critical pathway toward AGI. By advancing AI’s ability to interact with humans and the world—from multimodal perception and memory to higher-level cognition—we aim to develop, through academia–industry collaboration, technologies that create lasting value for society.",
+        "ja": "インタラクティブ知能は、AGIへの重要な道筋であると考えています。マルチモーダルな知覚や記憶から高次認知に至るまで、人間および実世界と相互作用するAIの能力を発展させ、産学連携を通じて、社会に持続的な価値をもたらす技術の創出を目指します。" }
     }
   ],
   "faculty": [

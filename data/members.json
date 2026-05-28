@@ -2,20 +2,20 @@
   "messages": [
     {
       "name": { "en": "Hideki Koike", "ja": "小池英樹" },
-      "title": { "en": "Professor", "ja": "教授" },
+      "title": { "en": "Cooperative Research Project Director", "ja": "協働研究拠点長" },
       "initials": "HK",
       "color": "#8e44ad",
-      "pic": "",
-      "affiliation": { "en": "Koike Laboratory,\nInstitute of Science Tokyo", "ja": "東京科学大学\n小池研究室" },
+      "pic": "images/members/koike.jpg",
+      "affiliation": { "en": "Institute of Science Tokyo, School of Computing, Professor", "ja": "東京科学大学　情報理工学院　教授" },
       "message": { "en": "", "ja": "" }
     },
     {
       "name": { "en": "Bo Zheng", "ja": "鄭　波" },
-      "title": { "en": "Research Director", "ja": "研究主任" },
+      "title": { "en": "Cooperative Research Project Vice Director", "ja": "協働研究副拠点長" },
       "initials": "BZ",
       "color": "#8e44ad",
-      "pic": "",
-      "affiliation": { "en": "Shanda AI Research Tokyo", "ja": "Shanda AI Research Tokyo" },
+      "pic": "images/members/zheng.jpg",
+      "affiliation": { "en": "Shanda AI Research Tokyo, Research Director", "ja": "Shanda AI Research Tokyo　研究主任" },
       "message": { "en": "", "ja": "" }
     }
   ],
@@ -25,7 +25,7 @@
       "title": { "en": "Resaerch Associate Professor", "ja": "特任准教授" },
       "initials": "EW",
       "color": "#2a5a8c",
-      "pic": "",
+      "pic": "images/members/erwin.jpg",
       "web": "http://erwinwu.com/"
     }
   ],
@@ -35,7 +35,7 @@
       "title": { "en": "PhD 3rd Year Student", "ja": "博士課程後期3年" },
       "initials": "RL",
       "color": "#8e44ad",
-      "pic": "",
+      "pic": "images/members/ruofan.jpg",
       "affiliation": { "en": "Koike Laboratory,\nInstitute of Science Tokyo", "ja": "東京科学大学\n小池研究室" }
     },
     {
@@ -49,19 +49,11 @@
   ],
   "fellows": [
     {
-      "name": { "en": "Hideki Koike", "ja": "小池英樹" },
-      "title": { "en": "Professor", "ja": "教授" },
-      "initials": "HK",
-      "color": "#8e44ad",
-      "pic": "",
-      "affiliation": { "en": "Koike Laboratory,\nInstitute of Science Tokyo", "ja": "東京科学大学\n小池研究室" }
-    },
-    {
       "name": { "en": "Yuta Itoh", "ja": "伊藤勇太" },
       "title": { "en": "Associate Professor", "ja": "准教授" },
       "initials": "YI",
       "color": "#8e44ad",
-      "pic": "",
+      "pic": "images/members/itoh.png",
       "affiliation": { "en": "Augmented Vision Lab,\nInstitute of Science Tokyo", "ja": "東京科学大学\nAugmented Vision Lab" }
     },
     {
@@ -69,7 +61,7 @@
       "title": { "en": "Assistant Professor", "ja": "助教" },
       "initials": "SM",
       "color": "#8e44ad",
-      "pic": "",
+      "pic": "images/members/miyafuji.jpg",
       "affiliation": { "en": "Miyafuji Lab,\nInstitute of Science Tokyo", "ja": "東京科学大学\n宮藤研究室" }
     },
     {
@@ -77,19 +69,19 @@
       "title": { "en": "Research Assistant Professor", "ja": "特任助教" },
       "initials": "YP",
       "color": "#8e44ad",
-      "pic": "",
+      "pic": "images/members/peng.jpg",
       "affiliation": { "en": "Koike Laboratory,\nInstitute of Science Tokyo", "ja": "東京科学大学\n小池研究室" }
     },
     {
-      "name": { "en": "Bo Zheng", "ja": "鄭　波" },
-      "title": { "en": "Research Director", "ja": "研究主任" },
-      "initials": "BZ",
+      "name": { "en": "Yifei Huang", "ja": "黄逸飛" },
+      "title": { "en": "Researcher", "ja": "研究員" },
+      "initials": "YP",
       "color": "#8e44ad",
       "pic": "",
       "affiliation": { "en": "Shanda AI Research Tokyo", "ja": "Shanda AI Research Tokyo" }
     },
     {
-      "name": { "en": "Yifei Huang", "ja": "黄逸飛" },
+      "name": { "en": "Kaipeng Zhang", "ja": "黄逸飛" },
       "title": { "en": "Researcher", "ja": "研究員" },
       "initials": "YP",
       "color": "#8e44ad",

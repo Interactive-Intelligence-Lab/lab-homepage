@@ -27,7 +27,7 @@
   "faculty": [
     {
       "name": { "en": "Erwin Wu", "ja": "ウー　エアウィン" },
-      "title": { "en": "Resaerch Associate Professor", "ja": "特任准教授" },
+      "title": { "en": "Research Associate Professor", "ja": "特任准教授" },
       "initials": "EW",
       "color": "#2a5a8c",
       "pic": "images/members/erwin.png",
@@ -45,9 +45,9 @@
       "affiliation": { "en": "Koike Laboratory,\nInstitute of Science Tokyo", "ja": "東京科学大学\n小池研究室" }
     },
     {
-      "name": { "en": "Hirano Toshihiro", "ja": "平野稔祐" },
+      "name": { "en": "Toshihiro Hirano", "ja": "平野稔祐" },
       "title": { "en": "PhD 1st Year Student", "ja": "博士課程後期1年" },
-      "initials": "RL",
+      "initials": "TH",
       "color": "#8e44ad",
       "pic": "images/members/hirano.jpg",
       "url": "",
@@ -94,14 +94,14 @@
     {
       "name": { "en": "Yifei Huang", "ja": "黄逸飛" },
       "title": { "en": "Researcher", "ja": "研究員" },
-      "initials": "YP",
+      "initials": "YH",
       "color": "#8e44ad",
       "pic": "images/members/yifei.jpeg",
       "url": "https://hyf015.github.io/",
       "affiliation": [
-    { "en": "Shanda AI Research Tokyo", "ja": "Shanda AI Research Tokyo" },
-    { "en": "Sato Laboratory,\nThe University of Tokyo", "ja": "東京大学\n佐藤(洋)研究室" }
-    ]
+        { "en": "Shanda AI Research Tokyo", "ja": "Shanda AI Research Tokyo" },
+        { "en": "Sato Laboratory,\nThe University of Tokyo", "ja": "東京大学\n佐藤(洋)研究室" }
+      ]
     }
   ]
 }

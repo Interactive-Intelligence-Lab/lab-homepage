@@ -1,14 +1,13 @@
 [
   {
-    "authors": "T. Hirano, H. Yoshihara, Y. Peng, C. Liao, E. Wu, H. Koike",
+    "authors": "Y. Peng, J. Song, S. Jung, R. Liu, H. Liu, X. Chu, R. Liu, E. Wu, H. Koike, K. Kitani",
     "title": {
-      "en": "SoleCoach: Sole Pressure and IMU-based MLLMs for Skill Coaching",
-      "ja": "SoleCoach: Sole Pressure and IMU-based MLLMs for Skill Coaching"
+      "en": "DyaDiT: A Multi-Modal Diffusion Transformer for Socially Favorable Dyadic Gesture Generation",
+      "ja": "DyaDiT: A Multi-Modal Diffusion Transformer for Socially Favorable Dyadic Gesture Generation"
     },
     "venue": "CVPR 2026",
     "year": 2026,
-    "type": "conference",
-    "award": "Best Paper Honorable Mention"
+    "type": "conference"
 
   },
   {
@@ -21,26 +20,15 @@
     "year": 2026,
     "type": "conference",
     "award": "Best Paper Honorable Mention"
-
   },
   {
-    "authors": "R. Liu, Y. Peng, T. Oku, C. Liao, E. Wu, S. Furuya, H. Koike",
+    "authors": "R. Liu, C. Liao, T. Takahashi, Y. Peng, E. Wu, H. Koike",
     "title": {
-      "en": "From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography",
-      "ja": "From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography"
+      "en": "MuscleGolfAR: Embodied versus Detached Visualization for Motions and Inferred Muscle Activations in Augmented Realit",
+      "ja": "MuscleGolfAR: Embodied versus Detached Visualization for Motions and Inferred Muscle Activations in Augmented Realit"
     },
-    "venue": "NeurIPS 2025",
-    "year": 2025,
-    "type": "conference"
-  },
-  {
-    "authors": "R. Liu, H. Peng, T. Oku, C. Liao, E. Wu, S. Furuya, H. Koike",
-    "title": {
-      "en": "PiaMuscle: Improving Piano Skill Acquisition through Muscle Visualization",
-      "ja": "PiaMuscle: Improving Piano Skill Acquisition through Muscle Visualization"
-    },
-    "venue": "ACM CHI Conference on Human Factors in Computing Systems (CHI 2025)",
-    "year": 2025,
-    "type": "conference"
+    "venue": "IEEE VR 2026 TVCG",
+    "year": 2026,
+    "type": "journal"
   }
 ]

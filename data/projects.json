@@ -1,56 +1,20 @@
 [
   {
     "title": {
-      "en": "Human-AI Co-Creative Design Systems",
-      "ja": "人間とAIの共創的デザインシステム"
+      "en": "Towards Interactive Intelligence for Digital Humans",
+      "ja": "デジタルヒューマンのためのインタラクティブ知能研究"
     },
     "status": "active",
     "description": {
-      "en": "Developing interactive systems where humans and AI models collaborate in real-time on creative design tasks. The system adapts its suggestions based on user intent inferred from interaction patterns, supporting fluid workflows in graphic design, architecture, and data visualization.",
-      "ja": "人間とAIモデルがリアルタイムで創造的デザインタスクに協働するインタラクティブシステムの開発。インタラクションパターンから推定されるユーザの意図に基づいて提案を適応させ、グラフィックデザイン、建築、データ可視化における流暢なワークフローを支援します。"
+      "en": "We model digital humans as autonomous agents with personality-consistent expression, adaptive interaction, and self-evolution, and propose a cascading paradigm composed of five modules: Thinker, Talker, Facial Animator, Body Animator, and Renderer.",
+      "ja": "デジタルヒューマンを、個性に一貫した表現、適応的なインタラクション、自己進化を備えた自律エージェントとしてモデル化し、Thinker、Talker、Facial Animator、Body Animator、Rendererの5つのモジュールからなるカスケード型のパラダイムを提案します。"
     },
-    "keywords": ["Human-AI Collaboration", "Generative Design", "Interactive ML", "Creativity Support"]
+    "keywords": ["Digital Humans", "VR/AR", "Interactive AI Agents", "Multimodal Interaction"]
   },
   {
     "title": {
-      "en": "Pose Prediction for Sports Training",
-      "ja": "スポーツトレーニングのための姿勢予測"
-    },
-    "status": "active",
-    "description": {
-      "en": "Developing real-time motion prediction and visualization systems for sports skill acquisition. Projects include VR/AR coaching tools for table tennis (FuturePong, SPinPong), skiing (ARpenSki, SkiTechCoach), and martial arts (FuturePose) that forecast player movements and provide intuitive visual feedback to improve technique.",
-      "ja": "スポーツスキル習得のためのリアルタイムモーション予測・可視化システムの開発。卓球（FuturePong, SPinPong）、スキー（ARpenSki, SkiTechCoach）、格闘技（FuturePose）向けのVR/ARコーチングツールを通じて、プレイヤーの動作を予測し、直感的な視覚フィードバックで技術向上を支援します。"
-    },
-    "keywords": ["Motion Prediction", "VR/AR", "Sports Analytics", "Skill Acquisition"]
-  },
-  {
-    "title": {
-      "en": "3D Body and Hand Pose Estimation",
-      "ja": "3Dボディ・ハンドポーズ推定"
-    },
-    "status": "active",
-    "description": {
-      "en": "Researching novel methods for estimating 3D human body and hand poses from various sensor modalities including RGB cameras, wrist-worn cameras, and insole sensors. Notable works include SolePoser for full-body estimation from insoles, Back-Hand-Pose for dorsum camera-based hand tracking, and marker-removal networks for precise hand data collection.",
-      "ja": "RGBカメラ、手首装着カメラ、インソールセンサーなど多様なセンサーモダリティから3D人体・手のポーズを推定する新しい手法の研究。インソールからの全身推定（SolePoser）、手背カメラベースのハンドトラッキング（Back-Hand-Pose）、精密なハンドデータ収集のためのマーカー除去ネットワークなどの成果があります。"
-    },
-    "keywords": ["Pose Estimation", "Computer Vision", "Deep Learning", "Wearable Sensors"]
-  },
-  {
-    "title": {
-      "en": "AR/VR Visualization for Musical Skill Acquisition",
-      "ja": "音楽スキル習得のためのAR/VR可視化"
-    },
-    "status": "active",
-    "description": {
-      "en": "Building augmented reality systems that enhance musical instrument learning through real-time visual feedback. PianoSyncAR and PiaMuscle provide pianists with visualizations of hand posture, finger movements, and muscle activity, enabling data-driven practice and skill improvement.",
-      "ja": "リアルタイムの視覚フィードバックにより楽器学習を強化する拡張現実システムの構築。PianoSyncARとPiaMuscleは、手の姿勢、指の動き、筋活動の可視化をピアニストに提供し、データドリブンな練習とスキル向上を可能にします。"
-    },
-    "keywords": ["Augmented Reality", "Music", "EMG", "Skill Training"]
-  },
-  {
-    "title": {
-      "en": "Adaptive Multimodal Interfaces for Accessibility",
-      "ja": "アクセシビリティのための適応型マルチモーダルインタフェース"
+      "en": "Adaptive Multimodal Interfaces for Human Understanding",
+      "ja": "人間理解のための適応型マルチモーダルインタフェース"
     },
     "status": "active",
     "description": {
@@ -58,17 +22,5 @@
       "ja": "ユーザの能力、好み、コンテキストに基づいて入出力モダリティ（音声、ジェスチャ、視線、触覚）を動的に適応するインタフェースの構築。手動設定なしに多様なニーズを持つユーザに複雑なソフトウェアを利用可能にすることを目指しています。"
     },
     "keywords": ["Accessibility", "Multimodal Interaction", "Adaptive UI", "Inclusive Design"]
-  },
-  {
-    "title": {
-      "en": "Explainable Interactive Machine Learning",
-      "ja": "説明可能なインタラクティブ機械学習"
-    },
-    "status": "completed",
-    "description": {
-      "en": "Investigated methods for making machine learning models more transparent and steerable through interactive visualizations and conversational explanations. Developed a prototype tool that allows domain experts to iteratively refine model behavior by providing natural feedback.",
-      "ja": "インタラクティブな可視化と対話的説明を通じて機械学習モデルの透明性と操作性を向上させる手法を研究しました。ドメイン専門家が自然なフィードバックを通じてモデルの振る舞いを反復的に改善できるプロトタイプツールを開発しました。"
-    },
-    "keywords": ["Explainable AI", "Interactive ML", "Visual Analytics", "Human-in-the-Loop"]
   }
 ]

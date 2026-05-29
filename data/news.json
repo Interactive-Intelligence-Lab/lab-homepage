@@ -1,37 +1,23 @@
 [
   {
-    "date": "2026-02-15",
+    "date": "2026-06-02",
     "title": {
-      "en": "Our paper on collaborative AI interfaces accepted at CHI 2026",
-      "ja": "協調型AIインタフェースに関する論文がCHI 2026に採択されました"
+      "en": "Our paper on Dyadic Gesture Generation is accepted at CVPR 2026",
+      "ja": "二者間ジェスチャー生成に関する論文がCVPR 2026で採択されました"
     }
   },
   {
-    "date": "2026-01-20",
+    "date": "2026-04-25",
     "title": {
-      "en": "Welcome two new master students joining the lab this spring",
-      "ja": "この春から新しい修士学生2名が研究室に加わります"
+      "en": "Our paper on AI Coaching got Best Paper Honorable Mention at CHI 2026",
+      "ja": "AIコーチングに関する論文がCHI 2026でBest Paper Honorable Mentionに選ばれました"
     }
   },
   {
-    "date": "2025-11-08",
+    "date": "2026-04-01",
     "title": {
-      "en": "Prof. Tanaka gave an invited talk at IPSJ HCI Workshop",
-      "ja": "田中教授がIPSJ HCIワークショップで招待講演を行いました"
-    }
-  },
-  {
-    "date": "2025-09-30",
-    "title": {
-      "en": "Best Paper Award at UIST 2025 for our adaptive interface work",
-      "ja": "適応型インタフェースの研究がUIST 2025でBest Paper Awardを受賞"
-    }
-  },
-  {
-    "date": "2025-07-12",
-    "title": {
-      "en": "New JST CREST project on human-AI co-creation started",
-      "ja": "JST CREST「人間とAIの共創」プロジェクトが始動しました"
+      "en": "The Interactive intelligence Research Lab is founded at the Institute of Science Tokyo",
+      "ja": "インタラクティブ知能協働拠点が東京科学大学に設立されました。"
     }
   }
 ]

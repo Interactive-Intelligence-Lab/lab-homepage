@@ -130,8 +130,8 @@ const DataRenderer = (() => {
       let html = "";
       html += renderMessageGroup(data.messages);
       html += renderGroup(data.faculty, { en: "Faculty & Staff", ja: "教職員" });
-      html += renderGroup(data.industry, { en: "Industry Collaborative Researcher", ja: "民間共同研究員" });
       html += renderGroup(data.fellows, { en: "Cooperative Research Fellow", ja: "協力研究者" });
+      html += renderGroup(data.industry, { en: "Industry Collaborative Researcher", ja: "民間共同研究員" });
       html += renderGroup(data.students, { en: "Students", ja: "学生" });
       container.innerHTML = html;
     }

@@ -43,7 +43,7 @@
       "initials": "RL",
       "color": "#8e44ad",
       "pic": "images/members/ruofan.jpg",
-      "url": "",
+      "url": "https://ruofanliu0129.github.io/Resume/",
       "affiliation": { "en": "Koike Laboratory,\nInstitute of Science Tokyo", "ja": "東京科学大学\n小池研究室" }
     },
     {
@@ -52,7 +52,7 @@
       "initials": "TH",
       "color": "#8e44ad",
       "pic": "images/members/hirano.jpg",
-      "url": "",
+      "url": "https://toshihirano.com/",
       "affiliation": { "en": "Miyafuji Laboratory,\nInstitute of Science Tokyo", "ja": "東京科学大学\n宮藤研究室" }
     },
     {
@@ -60,21 +60,30 @@
       "title": { "en": "Visiting PhD Student", "ja": "訪問博士課程学生" },
       "initials": "ZC",
       "color": "#8e44ad",
-      "pic": "",
-      "url": "",
+      "pic": "images/members/ziqi.jpg",
+      "url": "https://caiziqi.com/",
       "affiliation": { "en": "Camera Intelligence Lab,\n Peking University", "ja": "北京大学\n Camera Intelligence Lab" }
     },
-    {
+        {
       "name": { "en": "Yu-Ju Tsai", "ja": "Yu-Ju Tsai" },
-      "title": { "en": "PhD 4th Year Student", "ja": "博士課程後期4年" },
+      "title": { "en": "Visiting PhD Student", "ja": "訪問博士課程学生" },
       "initials": "YT",
       "color": "#8e44ad",
-      "pic": "",
+      "pic": "images/members/tsai.jpg",
       "url": "https://liagm.github.io/",
       "affiliation": { "en": "Vision and Learning Lab,\nUniversity of California, Merced", "ja": "カリフォルニア大学マーセド校\nVision and Learning Lab" }
     }
   ],
   "industry": [
+    {
+      "name": { "en": "Kaipeng Zhang", "ja": "張凱鵬" },
+      "title": { "en": "Principal Researcher", "ja": "首席研究員" },
+      "initials": "KZ",
+      "color": "#8e44ad",
+      "pic": "images/members/kpzhang.jpg",
+      "url": "https://kpzhang93.github.io/",
+      "affiliation": { "en": "Shanda Alaya Lab", "ja": "Shanda Alaya Lab" }
+    },
     {
       "name": { "en": "Yifei Huang", "ja": "黄逸飛" },
       "title": { "en": "Researcher", "ja": "研究員" },
@@ -83,9 +92,18 @@
       "pic": "images/members/yifei.jpeg",
       "url": "https://hyf015.github.io/",
       "affiliation": [
-        { "en": "Shanda AI Research Tokyo", "ja": "Shanda AI Research Tokyo" },
+        { "en": "Shanda Alaya Lab", "ja": "Shanda Alaya Lab" },
         { "en": "Sato Laboratory,\nThe University of Tokyo", "ja": "東京大学\n佐藤(洋)研究室" }
       ]
+    },
+    {
+      "name": { "en": "Zhixiang Wang", "ja": "汪智祥" },
+      "title": { "en": "Researcher / Team Leader", "ja": "研究員" },
+      "initials": "ZW",
+      "color": "#8e44ad",
+      "pic": "images/members/wang.jpg",
+      "url": "https://lightchaserx.github.io/",
+      "affiliation": { "en": "Shanda Alaya Lab", "ja": "Shanda Alaya Lab" }
     }
   ],
   "fellows": [

@@ -85,6 +85,15 @@
       "affiliation": { "en": "Shanda Alaya Lab", "ja": "Shanda Alaya Lab" }
     },
     {
+      "name": { "en": "Zhixiang Wang", "ja": "汪智祥" },
+      "title": { "en": "Researcher", "ja": "研究員" },
+      "initials": "ZW",
+      "color": "#8e44ad",
+      "pic": "images/members/wang.jpg",
+      "url": "https://lightchaserx.github.io/",
+      "affiliation": { "en": "Shanda Alaya Lab", "ja": "Shanda Alaya Lab" }
+    },
+    {
       "name": { "en": "Yifei Huang", "ja": "黄逸飛" },
       "title": { "en": "Researcher", "ja": "研究員" },
       "initials": "YH",
@@ -95,16 +104,8 @@
         { "en": "Shanda Alaya Lab", "ja": "Shanda Alaya Lab" },
         { "en": "Sato Laboratory,\nThe University of Tokyo", "ja": "東京大学\n佐藤(洋)研究室" }
       ]
-    },
-    {
-      "name": { "en": "Zhixiang Wang", "ja": "汪智祥" },
-      "title": { "en": "Researcher / Team Leader", "ja": "研究員" },
-      "initials": "ZW",
-      "color": "#8e44ad",
-      "pic": "images/members/wang.jpg",
-      "url": "https://lightchaserx.github.io/",
-      "affiliation": { "en": "Shanda Alaya Lab", "ja": "Shanda Alaya Lab" }
     }
+    
   ],
   "fellows": [
     {

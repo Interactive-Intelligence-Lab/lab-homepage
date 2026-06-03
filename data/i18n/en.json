@@ -2,13 +2,12 @@
   "nav": {
     "home": "Home",
     "members": "Members",
-    "projects": "Projects",
     "publications": "Publications",
     "contact": "Contact"
   },
   "lang_toggle": "JP",
   "hero": {
-    "title": "Interactive Intelligence Lab",
+    "title": "Interactive Intelligence Research Cluster",
     "subtitle": "Institute of Science Tokyo — Department of Computer Science",
     "lab_label": "Institute of Science Tokyo — Dept. of Computer Science",
     "slogan": "Designing Intelligent Systems\nThat Augment Human Ability",
@@ -16,13 +15,11 @@
   },
   "home": {
     "about_title": "About",
-    "about_text": "The Interactive Intelligence Lab explores the intersection of human-computer interaction, artificial intelligence, and cognitive science. Our mission is to design intelligent systems that collaborate naturally with humans, augmenting human creativity and decision-making through novel interaction paradigms. We pursue fundamental research in interactive machine learning, multimodal interfaces, and human-AI collaboration, while also building practical systems that bring these ideas into the real world.",
+    "about_text": "The Interactive Intelligence Research Cluster explores the intersection of human-computer interaction, artificial intelligence, and cognitive science. Our mission is to design intelligent systems that collaborate naturally with humans, augmenting human creativity and decision-making through novel interaction paradigms. We pursue fundamental research in interactive machine learning, multimodal interfaces, and human-AI collaboration, while also building practical systems that bring these ideas into the real world.",
     "news_title": "News",
     "quicklinks_title": "Explore",
     "ql_members": "Members",
     "ql_members_desc": "Meet our faculty and students",
-    "ql_projects": "Projects",
-    "ql_projects_desc": "Current and past research projects",
     "ql_publications": "Publications",
     "ql_publications_desc": "Journal and conference papers"
   },
@@ -32,11 +29,6 @@
     "phd_students": "PhD Students",
     "master_students": "Students",
     "message_placeholder": "(Message coming soon)"
-  },
-  "projects": {
-    "page_title": "Projects",
-    "status_active": "Active",
-    "status_completed": "Completed"
   },
   "publications": {
     "page_title": "Publications",
@@ -53,6 +45,6 @@
     "access_text": "5-minute walk from Ookayama Station (Tokyu Meguro Line / Tokyu Oimachi Line)"
   },
   "footer": {
-    "copyright": "Interactive Intelligence Lab, Institute of Science Tokyo"
+    "copyright": "Interactive Intelligence Research Cluster, Institute of Science Tokyo"
   }
 }

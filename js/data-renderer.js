@@ -1,6 +1,6 @@
 /**
  * data-renderer.js — JSON loading & DOM rendering for dynamic content
- * Renders news, members, publications, and projects from JSON data.
+ * Renders news, members, and publications from JSON data.
  */
 const DataRenderer = (() => {
   async function fetchJSON(path) {
@@ -130,42 +130,10 @@ const DataRenderer = (() => {
       let html = "";
       html += renderMessageGroup(data.messages);
       html += renderGroup(data.faculty, { en: "Faculty & Staff", ja: "教職員" });
+      html += renderGroup(data.industry, { en: "Industry Collaborative Researcher", ja: "民間共同研究員" });
       html += renderGroup(data.fellows, { en: "Cooperative Research Fellow", ja: "協力研究者" });
       html += renderGroup(data.students, { en: "Students", ja: "学生" });
       container.innerHTML = html;
-    }
-
-    render();
-    I18n.onChange(render);
-  }
-
-  // ── Projects ──
-  async function renderProjects(containerId) {
-    const container = document.getElementById(containerId);
-    if (!container) return;
-
-    const projects = await fetchJSON("data/projects.json");
-
-    function render() {
-      container.innerHTML = projects
-        .map((p) => {
-          const statusClass = p.status === "active" ? "project-status--active" : "project-status--completed";
-          const statusLabel =
-            p.status === "active"
-              ? I18n.localize({ en: "Active", ja: "進行中" })
-              : I18n.localize({ en: "Completed", ja: "完了" });
-          const keywords = p.keywords
-            .map((k) => `<span class="keyword-tag">${k}</span>`)
-            .join("");
-          return `
-          <div class="project-card">
-            <h3>${I18n.localize(p.title)}</h3>
-            <span class="project-status ${statusClass}">${statusLabel}</span>
-            <p class="project-description">${I18n.localize(p.description)}</p>
-            <div class="project-keywords">${keywords}</div>
-          </div>`;
-        })
-        .join("");
     }
 
     render();
@@ -265,5 +233,5 @@ const DataRenderer = (() => {
     I18n.onChange(render);
   }
 
-  return { renderNews, renderMembers, renderProjects, renderPublications, renderContact };
+  return { renderNews, renderMembers, renderPublications, renderContact };
 })();

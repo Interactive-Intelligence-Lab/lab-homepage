@@ -40,10 +40,6 @@ document.addEventListener("DOMContentLoaded", async () => {
     DataRenderer.renderMembers("members-container");
   }
 
-  if (page === "projects") {
-    DataRenderer.renderProjects("projects-container");
-  }
-
   if (page === "contact") {
     DataRenderer.renderContact();
   }

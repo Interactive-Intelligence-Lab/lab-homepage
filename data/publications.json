@@ -1,5 +1,15 @@
 [
   {
+    "authors": "X. Chu, R. Liu, Y. Huang, Y. Liu, Y. Peng, B. Zheng",
+    "title": {
+      "en": "UniLS: End-to-End Audio-Driven Avatars for Unified Listening and Speaking",
+      "ja": "UniLS: End-to-End Audio-Driven Avatars for Unified Listening and Speaking"
+    },
+    "venue": "CVPR 2026",
+    "year": 2026,
+    "type": "conference"
+  },
+  {
     "authors": "Y. Peng, J. Song, S. Jung, R. Liu, H. Liu, X. Chu, R. Liu, E. Wu, H. Koike, K. Kitani",
     "title": {
       "en": "DyaDiT: A Multi-Modal Diffusion Transformer for Socially Favorable Dyadic Gesture Generation",

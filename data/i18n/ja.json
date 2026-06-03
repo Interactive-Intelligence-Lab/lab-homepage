@@ -2,7 +2,6 @@
   "nav": {
     "home": "ホーム",
     "members": "メンバー",
-    "projects": "プロジェクト",
     "publications": "業績",
     "contact": "アクセス"
   },
@@ -21,8 +20,6 @@
     "quicklinks_title": "研究室を知る",
     "ql_members": "メンバー",
     "ql_members_desc": "教員・学生の紹介",
-    "ql_projects": "プロジェクト",
-    "ql_projects_desc": "現在・過去の研究プロジェクト",
     "ql_publications": "業績",
     "ql_publications_desc": "学術論文一覧"
   },
@@ -32,11 +29,6 @@
     "phd_students": "博士課程",
     "master_students": "学生",
     "message_placeholder": "（メッセージ準備中）"
-  },
-  "projects": {
-    "page_title": "プロジェクト",
-    "status_active": "進行中",
-    "status_completed": "完了"
   },
   "publications": {
     "page_title": "業績",

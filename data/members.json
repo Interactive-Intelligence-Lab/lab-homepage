@@ -63,6 +63,29 @@
       "pic": "",
       "url": "",
       "affiliation": { "en": "Camera Intelligence Lab,\n Peking University", "ja": "北京大学\n Camera Intelligence Lab" }
+    },
+    {
+      "name": { "en": "Yu-Ju Tsai", "ja": "Yu-Ju Tsai" },
+      "title": { "en": "PhD 4th Year Student", "ja": "博士課程後期4年" },
+      "initials": "YT",
+      "color": "#8e44ad",
+      "pic": "",
+      "url": "https://liagm.github.io/",
+      "affiliation": { "en": "Vision and Learning Lab,\nUniversity of California, Merced", "ja": "カリフォルニア大学マーセド校\nVision and Learning Lab" }
+    }
+  ],
+  "industry": [
+    {
+      "name": { "en": "Yifei Huang", "ja": "黄逸飛" },
+      "title": { "en": "Researcher", "ja": "研究員" },
+      "initials": "YH",
+      "color": "#8e44ad",
+      "pic": "images/members/yifei.jpeg",
+      "url": "https://hyf015.github.io/",
+      "affiliation": [
+        { "en": "Shanda AI Research Tokyo", "ja": "Shanda AI Research Tokyo" },
+        { "en": "Sato Laboratory,\nThe University of Tokyo", "ja": "東京大学\n佐藤(洋)研究室" }
+      ]
     }
   ],
   "fellows": [
@@ -92,18 +115,6 @@
       "pic": "images/members/peng.jpg",
       "url": "https://puckikk1202.github.io/",
       "affiliation": { "en": "Koike Laboratory,\nInstitute of Science Tokyo", "ja": "東京科学大学\n小池研究室" }
-    },
-    {
-      "name": { "en": "Yifei Huang", "ja": "黄逸飛" },
-      "title": { "en": "Researcher", "ja": "研究員" },
-      "initials": "YH",
-      "color": "#8e44ad",
-      "pic": "images/members/yifei.jpeg",
-      "url": "https://hyf015.github.io/",
-      "affiliation": [
-        { "en": "Shanda AI Research Tokyo", "ja": "Shanda AI Research Tokyo" },
-        { "en": "Sato Laboratory,\nThe University of Tokyo", "ja": "東京大学\n佐藤(洋)研究室" }
-      ]
     }
   ]
 }

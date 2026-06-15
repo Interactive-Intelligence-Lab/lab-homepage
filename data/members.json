@@ -104,10 +104,27 @@
         { "en": "Shanda Alaya Lab", "ja": "Shanda Alaya Lab" },
         { "en": "Sato Laboratory,\nThe University of Tokyo", "ja": "東京大学\n佐藤(洋)研究室" }
       ]
+    },
+    {
+      "name": { "en": "You Zhou", "ja": "周　游" },
+      "title": { "en": "Researcher", "ja": "研究員" },
+      "initials": "YZ",
+      "color": "#8e44ad",
+      "pic": "images/members/zhou.jpg",
+      "url": "",
+      "affiliation": { "en": "Shanda Alaya Lab", "ja": "Shanda Alaya Lab" }
     }
-    
   ],
   "fellows": [
+    {
+      "name": { "en": "Hideki Koike", "ja": "小池英樹" },
+      "title": { "en": "Professor", "ja": "教授" },
+      "initials": "HK",
+      "color": "#8e44ad",
+      "pic": "images/members/koike.jpg",
+      "url": "https://www.vogue.cs.titech.ac.jp/koike",
+      "affiliation": { "en": "Koike Laboratory,\nInstitute of Science Tokyo", "ja": "東京科学大学\n小池研究室" }
+    },
     {
       "name": { "en": "Yuta Itoh", "ja": "伊藤勇太" },
       "title": { "en": "Associate Professor", "ja": "准教授" },

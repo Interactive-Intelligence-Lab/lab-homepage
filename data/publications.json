@@ -1,5 +1,15 @@
 [
   {
+    "authors": "Y. Peng, J. Song, C. Liao, K. Kitani, H. Koike, E. Wu",
+    "title": {
+      "en": "InterPet4D: A Multimodal 4D Human-Pet Interaction Dataset for Pet Motion Generation",
+      "ja": "InterPet4D: A Multimodal 4D Human-Pet Interaction Dataset for Pet Motion Generation"
+    },
+    "venue": "ECCV 2026",
+    "year": 2026,
+    "type": "conference"
+  },
+  {
     "authors": "X. Chu, R. Liu, Y. Huang, Y. Liu, Y. Peng, B. Zheng",
     "title": {
       "en": "UniLS: End-to-End Audio-Driven Avatars for Unified Listening and Speaking",

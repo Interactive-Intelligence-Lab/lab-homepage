@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-20",
+    "title": {
+      "en": "We will host the Interactive Intelligence Symposium in Shanghai. Welcome to attend!",
+      "ja": "上海でInteractive Intelligence Symposiumを開催します。皆さまのご参加をお待ちしています！"
+    },
+    "url": "https://github.com/Interactive-Intelligence-Lab/lab-homepage.git"
+  },
+  {
+    "date": "2026-09-01",
+    "title": {
+      "en": "One paper from our group has been accepted to PG2026. See you in Singapore!",
+      "ja": "当研究拠点の1本の論文がPG2026に採択されました。シンガポールでお会いしましょう！"
+    }
+  },
+  {
     "date": "2026-08-04",
     "title": {
       "en": "Two papers from our group are accepted to ECCV 2026",

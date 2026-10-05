@@ -23,7 +23,7 @@ const DataRenderer = (() => {
           (item) => `
         <div class="news-item">
           <span class="news-date">${item.date}</span>
-          <span class="news-title">${I18n.localize(item.title)}</span>
+          <span class="news-title">${item.url ? `<a href="${item.url}" target="_blank" rel="noopener">${I18n.localize(item.title)}</a>` : I18n.localize(item.title)}</span>
         </div>`
         )
         .join("");
